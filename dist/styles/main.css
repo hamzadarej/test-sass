@@ -1,9 +1,4 @@
 body {
-  margin: 25% auto;
-}
-
-p {
-  color: blue;
   text-align: center;
 }
 
@@ -11,6 +6,14 @@ p {
   background-color: yellow;
   width: 20rem;
   height: 20rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.box .kid {
+  width: 5rem;
+  height: 5rem;
+  background-color: black;
 }
 
 /*# sourceMappingURL=main.css.map */
