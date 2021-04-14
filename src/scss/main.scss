@@ -1,12 +1,18 @@
 body {
-    margin: 25% auto;
-}
-p {
-    color: blue;
     text-align: center;
 }
+
 .box {
     background-color:yellow;
     width: 20rem;
     height: 20rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .kid {
+        width: 5rem;
+        height: 5rem;
+        background-color:black;
+
+    }
 }

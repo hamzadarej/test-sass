@@ -7,4 +7,10 @@ p {
   text-align: center;
 }
 
+.box {
+  background-color: yellow;
+  width: 20rem;
+  height: 20rem;
+}
+
 /*# sourceMappingURL=main.css.map */
