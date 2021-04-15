@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: gray;
+    margin: 25%;
+}
+.box {
+    background-color:yellow;
+    width: 20rem;
+    height: 20rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    .kid {
+        width: 5rem;
+        height: 5rem;
+        background-color:black;
+
+    }
+}
